@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "One Direction"},
+                  "SongTitle": {"S": "Fireprof"},
+                  "AlbumTitle": {"S": "Four"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "One Direction"},
+                  "SongTitle": {"S": "No Control"},
+                  "AlbumTitle": {"S": "Four"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "One Direction"},
+                  "SongTitle": {"S": "Clouds"},
+                  "AlbumTitle": {"S": "Four"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        }
+      ]
+}
